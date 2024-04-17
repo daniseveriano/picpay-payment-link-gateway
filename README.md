@@ -2,8 +2,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-GPL--2.0%2B-blue)
-[![WordPress Plugin](https://img.shields.io/wordpress/plugin/dt/picpay-payment-link-gateway)](https://wordpress.org/plugins/picpay-payment-link-gateway/)
-[![WordPress Plugin](https://img.shields.io/wordpress/plugin/v/picpay-payment-link-gateway)](https://wordpress.org/plugins/picpay-payment-link-gateway/)
 
 Integração de Link de Pagamento do PicPay para WooCommerce, para usuários que, por alguma razão, ainda não podem utilizar o PicPay para Lojistas.
 
